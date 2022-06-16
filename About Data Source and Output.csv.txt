@@ -1,0 +1,4 @@
+----------------------------------------------------------------------------------------------------
+Data Sources file contains the public data sets we have used for our project and exercises. 
+We have used Tableau Prep to clean and merge data sources as we have already presented in our lab exercise 2 report. 
+The Output of the Tableau Prep flow is Output.csv which we used for the rest of the work.
